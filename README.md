@@ -1,8 +1,3 @@
-# fresh
+# Flutter - Simple news app
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+Solution to the exercise in the course - 
